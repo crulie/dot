@@ -1,0 +1,11 @@
+set autoindent
+set expandtab
+set smartcase
+set encoding=utf-8
+set wrap
+set number
+set cursorline
+set noerrorbells
+set title
+set background=dark
+syntax on
