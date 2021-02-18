@@ -8,4 +8,5 @@ set cursorline
 set noerrorbells
 set title
 set background=dark
+set mouse=a
 syntax on
